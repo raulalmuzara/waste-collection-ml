@@ -1,2 +1,7 @@
-# waste-collection-ml
-Machine learning model to quantify the accordance of work output and objectives in a complex business environment.
+# Machine learning model to quantify the accordance of work output and objectives in a complex business environment
+
+This is an end-to-end data science project carried out with Python and QGIS. In this bachelor's thesis, we present a complete analysis of data related to the management of urban waste collection. The project was carried out in collaboration with a Spanish technology company that provided the data (not shared here for confidentiality purposes). The objective is the creation and automatic prediction of a goodness metric to determine the quality of the work orders executed by waste collection vehicles. For this purpose, we have information about the dumpsters collected and GPS tracks of the collection vehicles.
+
+First, we carry out an adequate selection and transformation of the raw data, as well as a study of the variables of greatest interest that we can construct. Next, we proceed with the design of machine learning models that allow us to make predictions using classification and regression models based on decision trees and neural networks. We evaluate each model with the relevant statistical techniques and we show the most important results for the understanding of the dataset, as well as the implications of the predictions.
+
+In this repository you can find the code in a Jupyter notebook and also an export to HTML file. All project details are described in the main PDF document of the thesis and an appendix with supplementary information is also provided.
